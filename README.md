@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Eternity0207! 👋
 
-<!--
-**Eternity0207/Eternity0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Eternity0207)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Software Developer** with a passion for coding and problem-solving.
+- 🌱 Currently learning and exploring new technologies.
+- 🛠️ Skilled in various programming languages and frameworks.
+- 📚 Always eager to learn and improve my skills.
+
+## Skills
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring
+- **Tools:** Git, Docker, Kubernetes, CI/CD
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## Projects
+
+### VolunteersIITJ
+- **Description:** A one-step solution for volunteering.
+- **Technologies Used:** List of technologies used in the project.
+- **GitHub Repository:** [Link to the repository](https://github.com/Eternity0207/VolunteersIITJ)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/arsh-goyal-29a10322a)
+- [Instagram](https://www.instagram.com/eternity.ele)
+- [Email](mailto:arsh.dark555@gmail.com)
+
+## GitHub Stats
+
+![Eternity0207's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eternity0207&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternity0207&layout=compact&theme=radical)
+
+<!-- Optional: Add more sections such as Blog Posts, Achievements, Certifications, etc. -->
