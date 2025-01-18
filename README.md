@@ -20,7 +20,10 @@
 
 ### VolunteersIITJ
 - **Description:** A one-step solution for volunteering.
-- **Technologies Used:** List of technologies used in the project.
+- **Technologies Used:**
+  Frontend: React.js for UI, React Router for navigation, and Tailwind CSS for styling. 
+  Backend: Node.js with Express.js for API, MongoDB with Mongoose for database, and Firebase Authentication for user management.
+  Firebase: Firestore for database, Firebase Storage for file uploads, and Firebase Hosting for deploying static assets..
 - **GitHub Repository:** [Link to the repository](https://github.com/Eternity0207/VolunteersIITJ)
 
 ## Connect with Me
