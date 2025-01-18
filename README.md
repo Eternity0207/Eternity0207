@@ -11,10 +11,10 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring
-- **Tools:** Git, Docker, Kubernetes, CI/CD
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, JavaScript, Java, C, C++
+- **Frameworks:** React, Node.js, Django, Express.js
+- **Tools:** Git, Docker
+- **Databases:** Cloud Firestore, Firebase Realtime Database, MongoDB
 
 ## Projects
 
