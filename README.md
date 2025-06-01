@@ -1,4 +1,4 @@
-# Hi there, I'm Eternity0207! 👋
+# Hi there, I'm Eternity! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Eternity0207)
 
@@ -57,10 +57,17 @@
 
 ---
 
-## 🛠 Other Skills
+## 🛠 Tools
 
-- **Languages**: Python, JavaScript, Java, C, C++, Node.js, Express.js, React Native
-- **Frameworks**: React, Node.js, Django, Express.js
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</div>
+
+---
+
+## 🛠 Other Skills
 - **Tools**: Git, Docker, Heroku
 
 ## Projects
