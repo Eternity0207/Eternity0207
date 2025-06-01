@@ -1,13 +1,16 @@
-# Hi there, I'm Eternity! 👋
-
+# Hi there, I'm Eternity! 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=Eternity0207)
 
-## About Me
+---
 
-- 💻 **Software Developer** with a passion for coding and problem-solving.
-- 🌱 Currently learning and exploring new technologies.
-- 🛠️ Skilled in various programming languages and frameworks.
-- 📚 Always eager to learn and improve my skills.
+## 🧑‍💻 About Me
+
+- 💻 **Software Developer** passionate about crafting scalable, maintainable, and efficient applications.
+- 🚀 Constantly exploring new technologies and development trends.
+- 🔍 Focused on building great user experiences with clean code.
+- 📚 Lifelong learner with a growth mindset.
+
+---
 
 # 🚀 Tech Stack
 
@@ -67,31 +70,46 @@
 
 ---
 
-## 🛠 Other Skills
-- **Tools**: Git, Docker, Heroku
+## 🧠 Languages
 
-## Projects
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
 
-### VolunteersIITJ
-- **Description:** A one-step solution for volunteering.
-- **Technologies Used:**
-  Frontend: React.js for UI, React Router for navigation, and Tailwind CSS for styling. 
-  Backend: Node.js with Express.js for API, MongoDB with Mongoose for database, and Firebase Authentication for user management.
-  Firebase: Firestore for database, Firebase Storage for file uploads, and Firebase Hosting for deploying static assets..
-- **GitHub Repository:** [Link to the repository](https://github.com/Eternity0207/VolunteersIITJ)
+---
 
-## Connect with Me
+## 🧩 Projects
 
-- [LinkedIn](https://www.linkedin.com/in/arsh-goyal-29a10322a)
-- [Instagram](https://www.instagram.com/sin_master_69)
-- [Email](mailto:iamarsh0207@gmail.com)
+### 🔹 VolunteersIITJ
+> A one-stop platform for seamless volunteering coordination at IIT Jodhpur.
 
-## GitHub Stats
+- **Frontend:** React.js, Tailwind CSS, React Router  
+- **Backend:** Node.js, Express.js, Firebase Auth, MongoDB with Mongoose  
+- **Deployment:** Firebase Hosting + Firebase Storage
+
+📂 **GitHub Repository:** [Eternity0207/VolunteersIITJ](https://github.com/Eternity0207/VolunteersIITJ)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-goyal-29a10322a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sin_master_69)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamarsh0207@gmail.com)
+
+---
+
+## 📊 GitHub Stats
 
 ![Eternity0207's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eternity0207&show_icons=true&theme=radical)
 
-## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternity0207&layout=compact&theme=radical)
 
-<!-- Optional: Add more sections such as Blog Posts, Achievements, Certifications, etc. -->
+---
