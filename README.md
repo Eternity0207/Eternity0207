@@ -12,6 +12,12 @@
 
 ---
 
+## Open Source
+
+[![An image of @eternity0207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eternity0207)](https://holopin.io/@eternity0207)
+
+---
+
 # 🚀 Tech Stack
 
 ## 💻 Web Development
