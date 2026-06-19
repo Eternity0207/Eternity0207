@@ -91,23 +91,10 @@
 
 ---
 
-## 🧩 Projects
-
-### 🔹 VolunteersIITJ
-> A one-stop platform for seamless volunteering coordination at IIT Jodhpur.
-
-- **Frontend:** React.js, Tailwind CSS, React Router  
-- **Backend:** Node.js, Express.js, Firebase Auth, MongoDB with Mongoose  
-- **Deployment:** Firebase Hosting + Firebase Storage
-
-📂 **GitHub Repository:** [Eternity0207/VolunteersIITJ](https://github.com/Eternity0207/VolunteersIITJ)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshgoyal0607)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sin_master_69)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iamarsh.02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamarsh0207@gmail.com)
 
 ---
