@@ -1,72 +1,81 @@
-# Hey, I'm Eternity 👋
+# Eternity 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eternity0207&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Eternity0207&style=flat-square&color=64748b" />
 </p>
 
-### 👨‍💻 About Me
+<p align="center">
+  <b>Software Developer</b> · Open Source Contributor · Lifelong Learner
+</p>
 
-I'm a Software Developer passionate about building scalable, maintainable, and efficient applications.
+<p align="center">
+  Building things for the web, exploring new technologies, and contributing to open source.
+</p>
 
-- 🚀 Exploring new technologies and development trends.
-- 💻 Building web and mobile applications.
-- 🎨 Focused on clean code and intuitive user experiences.
-- 🌱 Always learning and experimenting with new ideas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshgoyal0607">LinkedIn</a> ·
+  <a href="mailto:iamarsh0207@gmail.com">Email</a> ·
+  <a href="https://holopin.io/@eternity0207">Holopin</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## About
+
+- 💻 Software developer interested in scalable and maintainable applications.
+- 🚀 Exploring modern web and mobile technologies.
+- 🔍 Interested in clean architecture, performance, and user experience.
+- 🌱 Always learning and building something new.
+
+## Technologies
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,jquery" />
-</p>
+
+![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=flat-square&logo=css3&logoColor=1572B6)
+![jQuery](https://img.shields.io/badge/jQuery-1e293b?style=flat-square&logo=jquery&logoColor=0769AD)
 
 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1e293b?style=flat-square&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=flat-square&logo=flask&logoColor=white)
 
 **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-</p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-1e293b?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
-</p>
 
-**Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,heroku,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=00599C)
 
----
+**Tools**
 
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/arshgoyal0607">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:iamarsh0207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
+![Heroku](https://img.shields.io/badge/Heroku-1e293b?style=flat-square&logo=heroku&logoColor=7952B3)
 
 ---
 
-### 📊 GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eternity0207&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternity0207&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Eternity0207&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eternity0207&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-### 🏆 Open Source
+## Open Source
 
 <p align="center">
   <a href="https://holopin.io/@eternity0207">
@@ -75,5 +84,5 @@ I'm a Software Developer passionate about building scalable, maintainable, and e
 </p>
 
 <p align="center">
-  <i>Building, learning, and contributing to open source.</i>
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
